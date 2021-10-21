@@ -1,0 +1,15 @@
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\bin\Debug\netcoreapp3.1\PolygonsEditor.exe
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\bin\Debug\netcoreapp3.1\PolygonsEditor.deps.json
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\bin\Debug\netcoreapp3.1\PolygonsEditor.runtimeconfig.json
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\bin\Debug\netcoreapp3.1\PolygonsEditor.runtimeconfig.dev.json
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\bin\Debug\netcoreapp3.1\PolygonsEditor.dll
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\bin\Debug\netcoreapp3.1\PolygonsEditor.pdb
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\obj\Debug\netcoreapp3.1\PolygonsEditor.csprojAssemblyReference.cache
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\obj\Debug\netcoreapp3.1\PolygonsEditor.MainWindow.resources
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\obj\Debug\netcoreapp3.1\PolygonsEditor.csproj.GenerateResource.cache
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\obj\Debug\netcoreapp3.1\PolygonsEditor.AssemblyInfoInputs.cache
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\obj\Debug\netcoreapp3.1\PolygonsEditor.AssemblyInfo.cs
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\obj\Debug\netcoreapp3.1\PolygonsEditor.csproj.CoreCompileInputs.cache
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\obj\Debug\netcoreapp3.1\PolygonsEditor.dll
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\obj\Debug\netcoreapp3.1\PolygonsEditor.pdb
+E:\Zuzia\Documents\Informatyka\GK\PolygonsEditor\PolygonsEditor\obj\Debug\netcoreapp3.1\PolygonsEditor.genruntimeconfig.cache
